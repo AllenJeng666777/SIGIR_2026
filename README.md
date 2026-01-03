@@ -24,10 +24,8 @@ SIGIR_2026/
       ├─ Q3.csv
       ├─ Q8.csv
       └─ Q16.csv
+``` 
 
-
-
----
 
 ## GPT-based reframing (`GPT_prompt/`)
 
