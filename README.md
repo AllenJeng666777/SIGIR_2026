@@ -11,18 +11,19 @@ The materials document (1) the GPT-based headline reframing procedure and
 ---
 
 ## Repository structure
+```text
 SIGIR_2026/
 ├─ GPT_prompt/
-│ └─ SIGIR_Github_GPT_prompt.ipynb
-├─ Headlines for user study/
-│ ├─ Agreement study/
-│ │ ├─ study1_stance.csv
-│ │ ├─ study2_emotion.csv
-│ │ └─ study3_emotion.csv
-│ └─ Online user study/
-│ ├─ Q3.csv
-│ ├─ Q8.csv
-│ └─ Q16.csv
+│  └─ SIGIR_Github_GPT_prompt.ipynb
+└─ Headlines for user study/
+   ├─ Agreement study/
+   │  ├─ study1_stance.csv
+   │  ├─ study2_emotion.csv
+   │  └─ study3_emotion.csv
+   └─ Online user study/
+      ├─ Q3.csv
+      ├─ Q8.csv
+      └─ Q16.csv
 
 
 
