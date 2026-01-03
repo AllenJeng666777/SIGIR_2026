@@ -46,7 +46,7 @@ classifier employed in the log-based analyses, ensuring:
 The `Agreement study/` folder contains the headline sets used in the human
 agreement studies validating stance and emotion annotations (Stage 2 in the paper).
 
-### Online user study (RQ2)
+### Online user study
 The `Online user study/` folder contains the final headline stimuli used in the
 between-subject user study (RQ2), including:
 - original editorial headlines, and
