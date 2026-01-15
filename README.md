@@ -2,7 +2,7 @@
 
 This repository contains supplementary materials for the SIGIR 2026 submission:
 
-**Affective Framing for Responsible News Retrieval: Engagement, Interpretation, and Fear–Hope Reframing**  
+**Reducing Perceived Polarisation through Affect-Balanced News Reframing**  
 Jia-Hua Jeng, Alain D. Starke, David Elsweiler, Christoph Trattner
 
 The materials document (1) the GPT-based headline reframing procedure and
@@ -33,7 +33,7 @@ SIGIR_2026/
 Danish news headlines using **GPT-4o** into a **balanced fear–anticipation framing**
 (as described in the paper as fear–hope reframing).
 
-Reframed headlines are automatically validated using the same Danish emotion
+Reframed headlines are validated using the same Danish emotion
 classifier employed in the log-based analyses, ensuring:
 - fear and anticipation signals are both present, and
 - non-target emotions remain low.
@@ -44,7 +44,7 @@ classifier employed in the log-based analyses, ensuring:
 
 ### Agreement study
 The `Agreement study/` folder contains the headline sets used in the human
-agreement studies validating stance and emotion annotations (Stage 2 in the paper).
+agreement studies validating stance and emotion annotations (Study 2 in the paper).
 
 ### Online user study
 The `Online user study/` folder contains the final headline stimuli used in the
