@@ -17,9 +17,9 @@ SIGIR_2026/
 │  └─ SIGIR_Github_GPT_prompt.ipynb
 └─ Headlines for user study/
    ├─ Agreement study/
-   │  ├─ study1_stance.csv
-   │  ├─ study2_emotion.csv
-   │  └─ study3_emotion.csv
+   │  ├─ stance.csv
+   │  ├─ group1_emotion.csv
+   │  └─ group2_emotion.csv
    └─ Online user study/
       ├─ Q3.csv
       ├─ Q8.csv
