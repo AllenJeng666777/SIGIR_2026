@@ -2,7 +2,7 @@
 
 This repository contains supplementary materials for the SIGIR 2026 submission:
 
-**Reducing Perceived Polarisation through Affect-Balanced News Reframing**  
+**Reducing Perceived Polarization through Affect-Balanced News Reframing**  
 Jia-Hua Jeng, Alain D. Starke, David Elsweiler, Christoph Trattner
 
 The materials document (1) the GPT-based headline reframing procedure and
